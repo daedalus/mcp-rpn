@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-rpn": {
+      "command": "mcp-rpn",
+      "env": {}
+    }
+  }
+}
