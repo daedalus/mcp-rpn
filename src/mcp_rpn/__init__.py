@@ -2,7 +2,7 @@ from fastmcp import FastMCP
 
 from mcp_rpn._core import CalculatorSession
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __all__ = ["__version__", "mcp"]
 
 mcp = FastMCP("mcp-rpn")
